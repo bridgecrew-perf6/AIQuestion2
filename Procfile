@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True Q2.ipynb
+web:voila --port=$PORT --no-browser --enable_nbextensions=True Q2.ipynb
